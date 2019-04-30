@@ -1,0 +1,7 @@
+#Tue Apr 30 23:15:50 EET 2019
+base.1=C\:\\Users\\ibrah\\Desktop\\DNAI-beta\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+path.1=classes.dex
+base.0=C\:\\Users\\ibrah\\Desktop\\DNAI-beta\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

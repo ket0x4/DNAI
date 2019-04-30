@@ -1,0 +1,254 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:2:1-74:12
+MERGED from [com.github.javiersantos:PiracyChecker:1.2.5] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\1e9c579e52bfcb3bcd6dba50d5d204bd\AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\8f768eda2002d499cee0d88769303e54\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\6e4da9d2d9e514644fb0c29388ff97f1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\e9e4bd25ba710894d7f196a500af66e1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\dc615d832d3b915240c5250510fbd555\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\588ad1a1ae4f5605ff944038b30ae271\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\11a84678055d326625e163491f10f64d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\16027e342e979f4797c88d35f979939a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\c25ca959939372058c89965d0045ca75\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\db8c3399c78b5a0edfd65949c3cc9d13\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\7f8f672865c5a1dc8242a351c8f13400\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\aa9c9b2eba4f6706b452cb605c9d9c69\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\0830d74a5cb633704b6a88c91828550a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\7d27e6526a5e6899a99bd9e77f063302\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\c82987e1e8ed5e6133b5d42bf46451ba\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\fc2a4b447ee0c4ca43036816b94ce75b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\391b6346ff07cb5240b15716e9730161\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\d45969b849dade69c3e811c1d058e3de\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\d29b7a63004fc77efc08d8e7eca41978\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\e357918547d9323860ece62f83a2ff8d\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\4dea1a31ba27cecd8fe66efcf6a59878\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\4196d8e5eb63e01fb7a8e364a77b3a57\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\8050828b8db7fb57d123c1d2a0b1313e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\463c84bcf7f5f7bd21cb60fccb6589e5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\36045764be954e8fac94752a0ba08e6f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\160a0ae92782e42b984f4811464a5974\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\6edc4e8d4eecc308f6e881ce64e5b477\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\28d171c24adeb33d10b62dee55ec6bce\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\5cffdd3171ef541417607d397965ed9a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\23d30bf5afc836d4709ee70bacbc42cf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\b9fca1f038decab74870c88bc0c7ff03\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:2:1-74:12
+	package
+		ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:4:11-46
+		INJECTED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:2:1-74:12
+		INJECTED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:3:11-57
+	android:versionCode
+		INJECTED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:2:1-74:12
+		INJECTED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:5:11-49
+uses-permission#com.android.vending.CHECK_LICENSE
+ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:7:5-72
+MERGED from [com.github.javiersantos:PiracyChecker:1.2.5] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\1e9c579e52bfcb3bcd6dba50d5d204bd\AndroidManifest.xml:11:5-73
+MERGED from [com.github.javiersantos:PiracyChecker:1.2.5] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\1e9c579e52bfcb3bcd6dba50d5d204bd\AndroidManifest.xml:11:5-73
+	android:name
+		ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:7:22-70
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:8:22-64
+uses-feature#projekt.substratum.theme
+ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:10:2-12:36
+	android:required
+		ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:12:9-33
+	android:name
+		ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:11:9-48
+application
+ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:14:5-72:19
+REJECTED from [com.github.javiersantos:PiracyChecker:1.2.5] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\1e9c579e52bfcb3bcd6dba50d5d204bd\AndroidManifest.xml:13:5-17:19
+REJECTED from [com.google.android.material:material:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\8f768eda2002d499cee0d88769303e54\AndroidManifest.xml:22:5-20
+REJECTED from [androidx.core:core:1.0.1] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\d29b7a63004fc77efc08d8e7eca41978\AndroidManifest.xml:22:5-89
+REJECTED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\e357918547d9323860ece62f83a2ff8d\AndroidManifest.xml:22:5-23:19
+	tools:node
+		ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:20:9-29
+	android:extractNativeLibs
+		ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:22:9-42
+	android:supportsRtl
+		ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:17:9-42
+	tools:ignore
+		ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:21:9-48
+	android:icon
+		ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:15:9-36
+	android:theme
+		ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:19:9-43
+activity#substratum.theme.template.SubstratumLauncher
+ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:24:9-40:20
+	android:name
+		ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:24:19-78
+intent-filter#action:name:projekt.substratum.THEME+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:25:13-28:29
+action#projekt.substratum.THEME
+ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:26:17-66
+	android:name
+		ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:26:25-64
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:27:17-75
+	android:name
+		ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:27:27-73
+intent-filter#action:name:projekt.substratum.lite.THEME+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:29:13-32:29
+action#projekt.substratum.lite.THEME
+ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:30:17-71
+	android:name
+		ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:30:25-69
+intent-filter#action:name:projekt.substratum.GET_KEYS+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:33:13-36:29
+action#projekt.substratum.GET_KEYS
+ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:34:17-70
+	android:name
+		ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:34:25-67
+intent-filter#action:name:android.intent.action.MAIN
+ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:37:13-39:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:38:17-68
+	android:name
+		ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:38:25-66
+meta-data#Substratum_Legacy
+ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:42:9-44:55
+	android:value
+		ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:44:13-53
+	android:name
+		ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:43:13-45
+meta-data#Substratum_Name
+ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:45:9-47:48
+	android:value
+		ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:47:13-46
+	android:name
+		ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:46:13-43
+meta-data#Substratum_Author
+ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:48:9-50:50
+	android:value
+		ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:50:13-48
+	android:name
+		ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:49:13-45
+meta-data#Substratum_Email
+ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:51:9-53:55
+	android:value
+		ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:53:13-53
+	android:name
+		ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:52:13-44
+meta-data#Substratum_Samsung
+ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:54:9-56:56
+	android:value
+		ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:56:13-54
+	android:name
+		ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:55:13-46
+meta-data#Substratum_Wallpapers
+ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:57:9-59:59
+	android:value
+		ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:59:13-57
+	android:name
+		ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:58:13-49
+meta-data#Substratum_HeroOverride
+ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:60:9-62:56
+	android:value
+		ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:62:13-54
+	android:name
+		ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:61:13-51
+meta-data#Substratum_Plugin
+ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:65:9-67:37
+	android:value
+		ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:67:13-35
+	android:name
+		ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:66:13-45
+meta-data#Substratum_Encryption
+ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:68:9-70:56
+	android:value
+		ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:70:13-54
+	android:name
+		ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml:69:13-49
+uses-sdk
+INJECTED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml
+MERGED from [com.github.javiersantos:PiracyChecker:1.2.5] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\1e9c579e52bfcb3bcd6dba50d5d204bd\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.javiersantos:PiracyChecker:1.2.5] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\1e9c579e52bfcb3bcd6dba50d5d204bd\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\8f768eda2002d499cee0d88769303e54\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\8f768eda2002d499cee0d88769303e54\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\6e4da9d2d9e514644fb0c29388ff97f1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\6e4da9d2d9e514644fb0c29388ff97f1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\e9e4bd25ba710894d7f196a500af66e1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\e9e4bd25ba710894d7f196a500af66e1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\dc615d832d3b915240c5250510fbd555\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\dc615d832d3b915240c5250510fbd555\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\588ad1a1ae4f5605ff944038b30ae271\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\588ad1a1ae4f5605ff944038b30ae271\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\11a84678055d326625e163491f10f64d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\11a84678055d326625e163491f10f64d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\16027e342e979f4797c88d35f979939a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\16027e342e979f4797c88d35f979939a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\c25ca959939372058c89965d0045ca75\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\c25ca959939372058c89965d0045ca75\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\db8c3399c78b5a0edfd65949c3cc9d13\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\db8c3399c78b5a0edfd65949c3cc9d13\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\7f8f672865c5a1dc8242a351c8f13400\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\7f8f672865c5a1dc8242a351c8f13400\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\aa9c9b2eba4f6706b452cb605c9d9c69\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\aa9c9b2eba4f6706b452cb605c9d9c69\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\0830d74a5cb633704b6a88c91828550a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\0830d74a5cb633704b6a88c91828550a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\7d27e6526a5e6899a99bd9e77f063302\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\7d27e6526a5e6899a99bd9e77f063302\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\c82987e1e8ed5e6133b5d42bf46451ba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\c82987e1e8ed5e6133b5d42bf46451ba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\fc2a4b447ee0c4ca43036816b94ce75b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\fc2a4b447ee0c4ca43036816b94ce75b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\391b6346ff07cb5240b15716e9730161\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\391b6346ff07cb5240b15716e9730161\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\d45969b849dade69c3e811c1d058e3de\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\d45969b849dade69c3e811c1d058e3de\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\d29b7a63004fc77efc08d8e7eca41978\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\d29b7a63004fc77efc08d8e7eca41978\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\e357918547d9323860ece62f83a2ff8d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\e357918547d9323860ece62f83a2ff8d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\4dea1a31ba27cecd8fe66efcf6a59878\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\4dea1a31ba27cecd8fe66efcf6a59878\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\4196d8e5eb63e01fb7a8e364a77b3a57\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\4196d8e5eb63e01fb7a8e364a77b3a57\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\8050828b8db7fb57d123c1d2a0b1313e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\8050828b8db7fb57d123c1d2a0b1313e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\463c84bcf7f5f7bd21cb60fccb6589e5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\463c84bcf7f5f7bd21cb60fccb6589e5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\36045764be954e8fac94752a0ba08e6f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\36045764be954e8fac94752a0ba08e6f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\160a0ae92782e42b984f4811464a5974\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\160a0ae92782e42b984f4811464a5974\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\6edc4e8d4eecc308f6e881ce64e5b477\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\6edc4e8d4eecc308f6e881ce64e5b477\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\28d171c24adeb33d10b62dee55ec6bce\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\28d171c24adeb33d10b62dee55ec6bce\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\5cffdd3171ef541417607d397965ed9a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\5cffdd3171ef541417607d397965ed9a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\23d30bf5afc836d4709ee70bacbc42cf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\23d30bf5afc836d4709ee70bacbc42cf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\b9fca1f038decab74870c88bc0c7ff03\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\b9fca1f038decab74870c88bc0c7ff03\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		ADDED from [com.github.javiersantos:PiracyChecker:1.2.5] C:\Users\ibrah\.gradle\caches\transforms-2\files-2.1\1e9c579e52bfcb3bcd6dba50d5d204bd\AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		INJECTED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ibrah\Desktop\DNAI-beta\app\src\main\AndroidManifest.xml
