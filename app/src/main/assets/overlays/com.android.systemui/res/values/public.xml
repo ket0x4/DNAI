@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <public type="bool" name="config_showActivity" id="0x7f020000" />
-    <public type="string" name="config_mainBuiltInDisplayCutout" id="0x7f020000" />
-    <public type="string" name="config_mainBuiltInDisplayCutoutRectApproximation" id="0x7f020001" />
-    <public type="string" name="display_cutout_emulation_overlay" id="0x7f020002" />
     <public type="dimen" name="quick_qs_offset_height" id="0x7f030000" />
     <public type="dimen" name="quick_qs_total_height" id="0x7f030001" />
 </resources>
