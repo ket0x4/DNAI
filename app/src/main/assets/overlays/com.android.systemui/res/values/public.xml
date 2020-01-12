@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <public type="bool" name="config_showActivity" id="0x7f020000" />
-    <public type="dimen" name="quick_qs_offset_height" id="0x7f030000" />
-    <public type="dimen" name="quick_qs_total_height" id="0x7f030001" />
 </resources>
