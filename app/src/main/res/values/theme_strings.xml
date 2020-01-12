@@ -1,0 +1,7 @@
+<resources>
+    <string name="ThemeName">DNAI</string>
+    <string name="ThemeAuthor">Ibrahim</string>
+    <string-array name="ThemeChangelog">
+        <item>First release</item>
+    </string-array>
+</resources>
